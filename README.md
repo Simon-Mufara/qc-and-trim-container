@@ -11,4 +11,8 @@ Tools:
 docker pull simonmufara/qc_and_trim:latest
 
 
+singularity pull docker://simonmufara/qc_and_trim:latest
+
+
+
 
