@@ -5,6 +5,7 @@ Tools:
 - Trim Galore (cutadapt)
 - MultiQC
 
-## Pull (Docker)
+## Pull from Docker Hub
+
 ```bash
-docker pull ghcr.io/simon-mufara/qc_and_trim:latest
+docker pull simonmufara/qc_and_trim:latest
